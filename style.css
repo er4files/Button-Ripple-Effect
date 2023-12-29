@@ -17,6 +17,7 @@ body{
     color: black;
     position: relative;
     overflow: hidden;
+    Font-weight: bold
 }
 
 .btn::before {
